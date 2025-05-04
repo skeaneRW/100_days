@@ -7,7 +7,7 @@ def getTip():
     total_bill = bill + tip_amount
     total_per_person = total_bill / party
     print("\n")
-    print(f"Ok, you'll want to tip: ${tip_amount:.2f}")
-    print(f"that means the Total bill is gonna be: ${total_bill:.2f}")
-    print(f"so each per person should fork over: ${total_per_person:.2f}")
+    print(f"Ok, you'll want to tip: ${round(tip_amount,2)}")
+    print(f"that means the Total bill is gonna be: ${round(total_bill, 2)}")
+    print(f"so each per person should fork over: ${round(total_per_person,2)}")
 getTip()
