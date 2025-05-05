@@ -22,4 +22,4 @@ work with if else statements and logical operators to build your own choose your
 
 ## day 3 (5/5/25):
 ### rock paper scissors ✂️
-work with random model and arrays to create a rock paper scissors game.
+work with random model and lists to create a rock paper scissors game.
