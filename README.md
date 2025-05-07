@@ -45,10 +45,16 @@ work with lists and random model to create generate your own passwords.
 
 ### robot challenge 🤖
 
-guide your robot through a series of challenging obstacles and mazes.
+guide your [robot][https://reeborg.ca/index_en.html] through a series of challenging obstacles and mazes.
 
 ## day 7 (5/8/25):
 
 ### hangman 🤓
 
 review all of your python skills to create a hangman word puzzle game.
+
+## day 8 (5/9/25):
+
+### Ceasar Cipher 🏛️
+
+work with functions and inputs to create your own Cipher
