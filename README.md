@@ -58,3 +58,9 @@ review all of your python skills to create a hangman word puzzle game.
 ### Ceasar Cipher 🏛️
 
 work with functions and inputs to create your own Cipher
+
+## day 9 (5/10/25):
+
+### Silent Auction 🙋‍♂️
+
+Work with dictionaries to create a silent auction app.
