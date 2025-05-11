@@ -64,3 +64,15 @@ work with functions and inputs to create your own Cipher
 ### Silent Auction 🙋‍♂️
 
 Work with dictionaries to create a silent auction app.
+
+## day 10 (5/11/25):
+
+### Build your own calculator 🧮
+
+results to build a calculator that can perform basic arithmetic operations.
+
+## day 11 (5/12/25):
+
+### BlackJack ♠️
+
+put all your skills together to make a working BlackJack game!
