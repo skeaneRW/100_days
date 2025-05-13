@@ -76,3 +76,9 @@ results to build a calculator that can perform basic arithmetic operations.
 ### BlackJack ♠️
 
 put all your skills together to make a working BlackJack game!
+
+## day 12 (5/13/25):
+
+## secret number game 🤫
+
+guess the secret number.
