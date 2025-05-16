@@ -44,7 +44,6 @@ work with lists and random model to create generate your own passwords.
 ## day 6 (5/7/25):
 
 ### robot challenge 🤖
-
 guide your [robot][https://reeborg.ca/index_en.html] through a series of challenging obstacles and mazes.
 
 ## day 7 (5/8/25):
