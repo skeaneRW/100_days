@@ -89,20 +89,28 @@ guess the secret number.
 
 build your own version of the high-low game.
 
-## day 15 (5/14/25):
+## day 15 (5/15/25):
 
 ### Coffee Machine ☕️
 
 build a virtual coffee machine to serve drinks, collect money, and report on ingredients
 
-## day 16 (5/14/25):
+## day 16 (5/16/25):
 
 ### Object Oriented Coffee Machine ☕️💪
 
 use object oriented programming to supercharge your coffee machine from day 15
 
-## day 17 (5/14/25):
+## day 17 (5/17/25):
 
 ### trivia game 🤓
 
 use your object-oriented programming skills to the test with a fun trivia game.
+
+## day 18 (5/18/25):
+
+### Turtles!
+
+## day 19
+
+### Turtle racing
