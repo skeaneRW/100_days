@@ -63,3 +63,45 @@ work with functions and inputs to create your own Cipher
 ### Silent Auction 🙋‍♂️
 
 Work with dictionaries to create a silent auction app.
+
+## day 10 (5/11/25):
+
+### Build your own calculator 🧮
+
+results to build a calculator that can perform basic arithmetic operations.
+
+## day 11 (5/12/25):
+
+### BlackJack ♠️
+
+put all your skills together to make a working BlackJack game!
+
+## day 12 (5/13/25):
+
+## secret number game 🤫
+
+guess the secret number.
+
+## day 14 (5/14/25) ☝️👇:
+
+### high-low game
+
+build your own version of the high-low game.
+
+## day 15 (5/14/25):
+
+### Coffee Machine ☕️
+
+build a virtual coffee machine to serve drinks, collect money, and report on ingredients
+
+## day 16 (5/14/25):
+
+### Object Oriented Coffee Machine ☕️💪
+
+use object oriented programming to supercharge your coffee machine from day 15
+
+## day 17 (5/14/25):
+
+### trivia game 🤓
+
+use your object-oriented programming skills to the test with a fun trivia game.
