@@ -104,7 +104,7 @@ use object oriented programming to supercharge your coffee machine from day 15
 
 ### trivia game 🤓
 
-use your object-oriented programming skills to the test with a fun trivia game.
+put your object-oriented programming skills to the test with a fun trivia game.
 
 ## day 18 (5/18/25):
 
