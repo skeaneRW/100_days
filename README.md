@@ -217,3 +217,24 @@ This one’s more than fun — it's a stealth mission in:
 - 💬 Translating real-world datasets into practical tools
 
 You'll walk away with a solid grasp of how to map data and a newfound respect for the power of clean, Pythonic one-liners. Copy that, soldier? 🫡
+
+### Day 27 (5/27/25) — **GUI Kickoff with Tkinter** 🖱️🧙‍♂️
+
+🎯 _Skills:_ GUI Programming, Tkinter Widgets, Event-Driven Code, Layout Management
+
+Say goodbye to the command line — it’s time to give your code a _face_! With **Tkinter**, Python’s built-in GUI toolkit, you’ll build your first real interface. Think windows, buttons, labels, entry fields — all the tools you need to make your programs i
+
+### Day 28 (5/28/25) — **Pomodoro App with Tkinter** 🍅⏰
+
+🎯 _Skills:_ GUI Timers, Tkinter Loops, Time Management, Event Handling
+
+Today you're not just coding — you're building a weapon against distraction. Welcome to the **Pomodoro Technique**, where work meets flow and focus gets real. You'll use Tkinter to design a slick productivity timer that guides users through cycles of deep work and well-earned breaks.
+
+🔧 Learn to:
+
+- Build countdown timers using `after()` and recursive loops
+- Update GUI elements in real time (no freezing allowed!)
+- Handle start, reset, and pause logic with event-driven buttons
+- Apply your layout and widget knowledge to a practical tool
+
+This project blends logic, design, and utility into one beautifully ticking package. The best part? You'll _actually use_ this one every day. 🧘‍♂️💻🍅
