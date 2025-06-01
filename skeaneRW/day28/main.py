@@ -49,7 +49,7 @@ def countdown(start_time):
         timer_string = f"{minutes}:{seconds}"
         canvas.itemconfig(timer_text, text = timer_string)
         global timer
-        timer = root.after(1,countdown,start_time - 1)
+        timer = root.after(1000,countdown,start_time - 1)
     elif reps <= 8:
         timer_mechanism()
     else:
