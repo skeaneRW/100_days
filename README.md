@@ -501,3 +501,73 @@ Capstone #2 is a powerful step into **edtech app development** — polished, pur
 - Automating tasks that can run daily (via cron or task scheduler)
 
 Your Python skills just got social. And automated. This is a game-changer for everything from reminders to reports. Let’s celebrate in code! 🎈📬🛠️
+
+### Day 33 (6/2/25) — **ISS Overhead Notifier App** 🚀🌌
+
+🎯 _Skills:_ APIs, JSON Parsing, Geolocation, Conditional Email Notifications
+
+🛰️ Today, you're building a Python-powered **ISS tracker** that pings the open sky for the International Space Station’s current position — and fires off an email alert if it's flying right over your head.
+
+This is real-time API integration meets smart automation. The stars have never felt closer ✨
+
+📡 What you’ll build:
+
+- A script that calls the [Open Notify API](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
+- A geolocation checker that compares the ISS’s location with your own
+- An `smtplib`-based email notification when conditions are met
+- A looped check that runs at timed intervals (e.g., every 60 seconds)
+
+🔧 Concepts you’ll master:
+
+- Sending GET requests and working with JSON data
+- Using `datetime`, `requests`, and math to calculate proximity
+- Building email alerts for specific conditions
+- Scheduling a script to run on a loop or background task (with `time.sleep()` or cron)
+
+This project is thrilling, functional, and surprisingly practical — you’re literally tracking spacecraft in orbit with Python. Ground control to coder... your scripts are cleared for launch. 🧑‍🚀📬✨
+
+### Day 34 (6/3/25) — **Advanced Trivia Game with GUI & APIs** 🧠🎮
+
+🎯 _Skills:_ API Integration, GUI Development, JSON Parsing, Question Logic, UX Design
+
+Today, your trivia game gets a serious upgrade. You’re combining the power of **live API data** with a **Tkinter interface** to deliver a sleek, interactive quiz experience — no hardcoded questions, no limits, just endless fun.
+
+🎯 What you’ll build:
+
+- A GUI-based quiz app using `Tkinter`
+- A real-time connection to the [Open Trivia Database](https://opentdb.com/api_config.php)
+- An interface that displays one question at a time, tracks scores, and gives instant feedback
+- A finish screen with a final score and replay option
+
+🔌 Concepts you’ll master:
+
+- Pulling and parsing JSON data from an external API
+- Structuring your app with classes for scalability
+- Navigating GUI state and input validation
+- Handling categories, difficulty settings, and question types dynamically
+
+With API power and a polished interface, this trivia game feels like the real deal. It’s educational, interactive, and totally replayable. 🎓✨
+
+Press start to test your smarts — Python is your game engine now! 🕹️🔥
+
+### Day 35 (6/4/25) — **Rain Alert SMS App with API Keys** ☔📱
+
+🎯 _Skills:_ API Authentication, Environment Variables, Weather Forecasting, SMS Notification
+
+Today’s mission: protect your future self from soggy sneakers 🥾🌧️. You’ll build a weather alert app that taps into **real-time forecast data** — and sends a **text alert** if it looks like rain. It’s personal, practical, and powered by clean, secure code.
+
+📦 What you’ll build:
+
+- A weather utility that connects to the [OpenWeatherMap API](https://openweathermap.org/api)
+- API key handling via `os.environ` for secure access
+- A forecast check that scans the next 12 hours for rain indicators
+- A notification system that sends SMS using [Twilio](https://www.twilio.com/) or another provider
+
+🔐 Concepts you’ll master:
+
+- Safely managing secrets using environment variables (`os.environ["API_KEY"]`)
+- Parsing and filtering JSON weather data for relevant conditions
+- Creating condition-based alerts and formatted messages
+- Sending SMS notifications via a REST API
+
+This is where automation meets weather meets peace of mind. You’ve just built a Python-powered umbrella reminder. ☔📲🛠️
