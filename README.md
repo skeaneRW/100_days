@@ -571,3 +571,100 @@ Today’s mission: protect your future self from soggy sneakers 🥾🌧️. You
 - Sending SMS notifications via a REST API
 
 This is where automation meets weather meets peace of mind. You’ve just built a Python-powered umbrella reminder. ☔📲🛠️
+
+### Day 36 (6/5/25) — **Stock Price Tracker + News Alert** 📉📰
+
+🎯 _Skills:_ Financial APIs, API Authentication, Environment Variables, Conditional Alerts, News Integration
+
+Your Python just got a Wall Street upgrade 💹. Today you’ll build a utility that monitors stock price changes and sends an **alert if a stock moves significantly** — plus grabs relevant news headlines to explain the spike or dip.
+
+📈 What you’ll build:
+
+- A stock price tracker using the [Alpha Vantage API](https://www.alphavantage.co/) or a similar financial API
+- Secure API key management with `os.environ` or `.env`
+- A script that checks the percentage change between today’s and yesterday’s closing prices
+- If the change is large (e.g. >5%), it pulls top news headlines from a second API (like [NewsAPI](https://newsapi.org/)) and sends an SMS
+
+🧠 Concepts you’ll master:
+
+- Calculating percentage deltas from JSON time series data
+- Using environment variables to keep your API keys secret and secure
+- Chaining multiple APIs for richer context (price + news)
+- Sending multi-line formatted SMS or email alerts
+
+By the end of the day, you’ll have a Python script that acts like a financial assistant — quietly watching the markets and tipping you off when things get interesting. 🤑📲📊
+
+### Day 37 (6/6/25) — **Habit Tracker App with Pixela API** 📅🔥
+
+🎯 _Skills:_ API POST Requests, Data Visualization, Habit Logging, Environment Variables
+
+Time to build something that builds _you_. Today, you’ll create a **habit tracker** using the [Pixela API](https://pixe.la/) — a playful yet powerful service that turns your daily activities into visual graphs. Track workouts, water intake, Python practice — anything you want to commit to. 💪
+
+📊 What you’ll build:
+
+- A script that creates a new Pixela user and graph via API
+- A POST request tool to log your habit each day
+- An update/delete function for corrections or changes
+- Secure credential management using `os.environ` for your token
+
+🧠 Concepts you’ll master:
+
+- Making POST/PUT/DELETE requests with custom headers
+- Handling authentication tokens with environmental variables
+- Structuring JSON payloads to interact with REST APIs
+- Visualizing progress with auto-generated graphs
+
+It’s data-driven self-improvement, and it looks amazing. Want to practice Python every day for the next 100 days? Now you can _see_ it happen. 📈👊
+
+This project isn't just smart — it’s motivational. Let’s build better habits, one line of code at a time. ✨📌
+
+### Day 38 (6/7/25) — **Fitness Tracker App with Exercise API** 🏋️‍♂️📈
+
+🎯 _Skills:_ Natural Language Processing APIs, POST Requests, Activity Logging, Calorie Calculation
+
+You’ve built a habit tracker — now it’s time to track **movement**. Today’s project transforms a simple sentence like “ran 3 miles and did 20 pushups” into a structured, data-rich fitness log using the [Nutritionix Exercise API](https://www.api-ninjas.com/api/exercise) or similar.
+
+🩺 What you’ll build:
+
+- A fitness tracker that takes plain-English descriptions of workouts
+- A request to an exercise API that parses the input and returns estimated calories, duration, and type
+- A data logger that stores this in a Google Sheet or local file (via Sheety or CSV)
+- Environment variable-based API key protection with `os.environ`
+
+💡 Concepts you’ll master:
+
+- Using NLP APIs to turn human language into structured data
+- Logging structured records from API responses
+- Working with timestamps and units like kcal and minutes
+- Automating personal analytics that could integrate with wearable data down the road
+
+Your code now understands your workouts — and tracks them like a digital trainer. This is fitness meets AI meets accountability. 🏃‍♀️🧠🔥
+
+### Day 39 (6/8/25) — **Flight Finder (Capstone #3)** ✈️🌍
+
+🎯 _Skills:_ Multi-API Integration, Query Parameters, Conditional Logic, UX Design, Capstone-Level Architecture
+
+Welcome to **Capstone Project #3** — and this one’s soaring above the clouds 🌤️. You’re building a **flight-finding tool** that scours the skies for the **best deals** on flights based on user preferences. Think price threshold, destination filters, and date windows — all powered by real-time flight APIs.
+
+🧳 What you’ll build:
+
+- A program that pulls live flight data using an API like [Tequila by Kiwi](https://tequila.kiwi.com/)
+- A system that checks for matching deals below a specified price
+- A filter system for destinations, direct flights, date ranges, or departure cities
+- An optional email or SMS notification when a deal is found
+- Secure storage of API credentials using `os.environ`
+
+🧠 Concepts you’ll master:
+
+- Crafting advanced GET requests with dynamic parameters
+- Parsing and formatting flight data for human-friendly results
+- Writing modular code that supports optional add-ons like notifications
+- Building a tool with real-world travel utility
+
+✈️ Why it’s a capstone:
+
+- Combines **APIs**, **logic**, **alerts**, and **user customization**
+- Teaches how to **automate research tasks**
+- Sets you up for future features like browser automation, booking integration, or web dashboards
+
+By the end, you’ll have a flight-checking assistant that works while you sleep. Bon voyage, coder. 🌐💼🔥
